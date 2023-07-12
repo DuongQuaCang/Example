@@ -1,1 +1,5 @@
+
 Anh Quá đã sửa file này 2
+=======
+File số 2 cũng thế nhé
+>>>>>>> 46248382c9a803af741dde8a8523c6dca7ae8e88

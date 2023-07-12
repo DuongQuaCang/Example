@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Anh Quá đã sửa file này
+=======
+File so 1 đã bị dương quá sửa
+
