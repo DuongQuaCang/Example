@@ -1,1 +1,7 @@
-Đang sửa dở dang nhé
+Thêm cái dòng này nữa
+<<<<<<< HEAD
+Anh Quá đã sửa file này
+=======
+File so 1 đã bị dương quá sửa
+
+Dòng này do Anh Quá viết thêm vô nè em
